@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircularProgress">
+        <!--圆环颜色-->
+        <attr name="progress_color" format="color" />
+        <!--圆环宽度-->
+        <attr name="progress_width" format="dimension" />
+        <!--文字大小-->
+        <attr name="text_size" format="dimension" />
+        <!--文字颜色-->
+        <attr name="text_color" format="color" />
+        <!--进度条进度-->
+        <attr name="progress" format="integer" />
+        <!--进度条总数-->
+        <attr name="max" format="integer" />
+    </declare-styleable>
+</resources>
